@@ -1,0 +1,9 @@
+Building TPlusCoin
+
+See doc/readme-qt.rst for instructions on building TPlusCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TPlusCoin.
+
+See doc/build-*.txt for instructions on building TPlusCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TPlusCoin.
